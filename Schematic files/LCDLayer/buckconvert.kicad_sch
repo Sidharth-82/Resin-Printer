@@ -1,8 +1,14 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 084e012e-073b-4c85-b2ef-43f38d834d74)
+  (uuid e5c401ce-ad22-417a-be92-9b274fbc647f)
 
   (paper "A4")
+
+  (title_block
+    (date "2024-02-27")
+    (rev "1.0")
+    (company "Sidharth Sreeram")
+  )
 
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)

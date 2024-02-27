@@ -474,27 +474,27 @@
     ],
     [
       "9b48ac96-7f4b-48d4-a261-7f468b2afba4",
-      "UVLight"
+      "UVLED_Panel"
     ],
     [
       "3c54d63f-0fa4-429e-96ec-188d6baca178",
-      "LCD Layer"
+      "LCD_Panel"
     ],
     [
       "75b4f9cb-929f-4c12-9fb2-570bcc17a11a",
-      "USBReader"
+      "USBReader & SDCard"
     ],
     [
       "60e47a73-720e-47ea-8be4-bcd74ac22bc0",
-      "MotorController"
+      "Motor_Controller"
     ],
     [
       "3bdbee98-6bfe-4223-9899-33d902e7d222",
-      "Power"
+      "Power_Management"
     ],
     [
       "498bbff8-d234-40f9-98f6-b89f629a43f4",
-      "Processor"
+      "STM32F103C8T6_MCU"
     ],
     [
       "31835f82-3796-4611-920b-b87e114e0cb7",

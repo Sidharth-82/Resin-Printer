@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Motor_Controller")
+    (date "2024-02-27")
+    (rev "1.0")
+    (company "Sidharth Sreeram")
+  )
+
   (lib_symbols
     (symbol "Device:C_Polarized_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.635 2.54 0)
