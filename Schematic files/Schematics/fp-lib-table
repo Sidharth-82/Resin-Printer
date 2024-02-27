@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MD-50SM")(type "KiCad")(uri "C:/Users/sidha/OneDrive/programming/Resin Printer/Schematic files/MD-50SM")(options "")(descr ""))
+  (lib (name "ResinPrinter")(type "KiCad")(uri "${KIPRJMOD}/ResinPrinter.pretty")(options "")(descr ""))
+)
