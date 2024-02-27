@@ -1,0 +1,133 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid af5d6fb3-2577-4120-8af3-1828a4be58c2)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 233.68 55.88) (size 15.24 11.43) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 31835f82-3796-4611-920b-b87e114e0cb7)
+    (property "Sheetname" "buck converter" (at 233.68 55.1684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "buckconvert.kicad_sch" (at 233.68 67.8946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCDLayer"
+        (path "/af5d6fb3-2577-4120-8af3-1828a4be58c2" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 204.47 97.79) (size 41.91 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3bdbee98-6bfe-4223-9899-33d902e7d222)
+    (property "Sheetname" "Power" (at 204.47 97.0784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Power.kicad_sch" (at 204.47 133.9346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCDLayer"
+        (path "/af5d6fb3-2577-4120-8af3-1828a4be58c2" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 167.64 21.59) (size 40.64 34.29) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3c54d63f-0fa4-429e-96ec-188d6baca178)
+    (property "Sheetname" "LCD Layer" (at 167.64 20.8784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "LCD Layer_sch.kicad_sch" (at 167.64 56.4646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCDLayer"
+        (path "/af5d6fb3-2577-4120-8af3-1828a4be58c2" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 100.33 31.75) (size 34.29 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 498bbff8-d234-40f9-98f6-b89f629a43f4)
+    (property "Sheetname" "Processor" (at 100.33 31.0384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Processor.kicad_sch" (at 100.33 69.1646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCDLayer"
+        (path "/af5d6fb3-2577-4120-8af3-1828a4be58c2" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 109.22 107.95) (size 39.37 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 60e47a73-720e-47ea-8be4-bcd74ac22bc0)
+    (property "Sheetname" "MotorController" (at 109.22 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MotorController.kicad_sch" (at 109.22 135.2046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCDLayer"
+        (path "/af5d6fb3-2577-4120-8af3-1828a4be58c2" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 41.91 102.87) (size 39.37 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 75b4f9cb-929f-4c12-9fb2-570bcc17a11a)
+    (property "Sheetname" "USBReader" (at 41.91 102.1584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USBReader.kicad_sch" (at 41.91 133.9346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCDLayer"
+        (path "/af5d6fb3-2577-4120-8af3-1828a4be58c2" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 26.67 22.86) (size 45.72 41.91) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9b48ac96-7f4b-48d4-a261-7f468b2afba4)
+    (property "Sheetname" "UVLight" (at 26.67 22.1484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "UVLight.kicad_sch" (at 26.67 65.3546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LCDLayer"
+        (path "/af5d6fb3-2577-4120-8af3-1828a4be58c2" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
