@@ -6660,7 +6660,7 @@
     (property "Value" "USB_A" (at 34.29 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_USB:USB_A_Wuerth_614004134726_Horizontal" (at 38.1 58.42 0)
+    (property "Footprint" "Connector_USB:USB_A_TE_292303-7_Horizontal" (at 38.1 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 38.1 58.42 0)
